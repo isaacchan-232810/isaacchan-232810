@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm Isaac Chan 👋
 
 <p align="center">
@@ -11,13 +9,13 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Cambridge A-level CS 9618**
-- 🌱 I’m currently learning **Advanced Python / Scripting**
+- 🔭 I’m currently working on **[Cambridge A-level CS 9618]**
+- 🌱 I’m currently learning **[Advanced Python / Scripting]**
 - 👯 I’m looking to collaborate on things like **[Videogames with Unity / Unreal Engine 5]**
-- 💬 Ask me about things like **My Known Languages, Education Level, or Interests**
+- 💬 Ask me about things like **[My Known Languages, Education Level, or Interests]**
 - ⚡ Fun fact: **I can read texts at 1600 WPM with an average retention rate of 80%, and a 240hz monitor looks slow and choppy to me*.*
-- 📫 How to reach me: **isaacchan.232810@gmail.com**
-- 😄 Pronouns: He / Him
+- 📫 How to reach me: **[isaacchan.232810@gmail.com]**
+- 😄 Pronouns: [He / Him]
 
 ---
 
