@@ -19,18 +19,24 @@
 
 ---
 
-### ⚡ Right Now (Updated Regularly)
+### ⚡ Right Now / Future (Updated Regularly)
 
 | Category | What I'm Up To |
 | :--- | :--- |
-| 📚 **Studying** | Preparing for Cambridge A-level CS 9618 (Paper 1-4) |
+| 📚 **Studying** | Preparing for Cambridge A-level CS 9618 (Paper 1-4), and the Hong Kong Olympiad in Informatics (HKOI) in Early November. |
 | 📚 **School** | Started my school's first official Computer Science club for grades 6 - 10, with two classes each week. |
 | 💻 **Coding** | Revisiting and coding an advanced Python script for CS50P. |
 | 🎮 **Game Dev** | Experimenting with mechanics in [Unity / Unreal Engine 5 / Roblox Studio] |
 | 📖 **Reading** | *[Breaking Dawn by Stephanie Meyer]* |
-| 🎧 **Listening To** | *[Suicidal (feat.Juice WRLD)]* by [YNW Melly / Juice WRLD] |
-| 🎵 **2:** | *[God's Plan]* by [Drake] |
-| 🎵 **3:** | *[comedown (a face like)]* by [Naits] |
-| 🎵 **4:** | *[Bad Habit]* by [Steve Lacy] |
-| 🎵 **5:** | *[THOUSANF MILES]* by [The Kid LAROI] |
 
+---
+
+### 🎧 Five On Repeat
+
+| # | Track | Artist |
+| :-: | :--- | :--- |
+| 1️⃣ | *[Suicidal (feat.Juice WRLD)]* | [YNW Melly / Juice WRLD] |
+| 2️⃣ | *[God's Plan]* | [Drake] |
+| 3️⃣ | *[comedown (a face like)]* | [Naits] |
+| 4️⃣ | *[Bad Habit]* | [Steve Lacy] |
+| 5️⃣ | *[THOUSAND MILES]* | [The Kid LAROI] |
